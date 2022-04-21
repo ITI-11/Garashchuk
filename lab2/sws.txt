@@ -1,0 +1,5 @@
+@echo off
+cls
+D:
+cd D:\УЧЁБА\2 семестр\ОС\lab2
+notepad name .txt
